@@ -25,3 +25,11 @@ tags:
 - One current research paper.
 - One personal note or project note.
 - One web article clipped to markdown.
+
+## Research Program
+
+- What is the central master's research question?
+- Should the main method be DSR, SLR, case study, or a combined design-science plus systematic-review design?
+- Which ERP/interoperability problem is most important: implementation success, knowledge transfer, data integration, socio-technical adoption, or post-go-live performance?
+- Which evaluation setting is available for a DSR artifact?
+- Which source gaps remain for cloud/SaaS ERP, semantic interoperability, and ERP ecosystems as systems of systems?

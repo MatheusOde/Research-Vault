@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AGENTS"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGENTS.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AGENTS"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGENTS"
+              "title": "Outline of index"
             }
           }
         ]
@@ -185,26 +185,41 @@
   },
   "active": "dc4ead8b22db0eb0",
   "lastOpenFiles": [
-    "wiki/meta/Open Questions.md",
-    "wiki/syntheses/Second Brain Architecture.md",
-    "wiki/workflows/Ingest Workflow.md",
-    "wiki/concepts/Persistent Synthesis.md",
-    "wiki/concepts/LLM Wiki.md",
-    "wiki/sources/LLM Wiki Pattern.md",
-    "raw/ideas/2026-05-11-llm-wiki-pattern.md",
-    "log.md",
     "index.md",
+    "wiki/sources/A Design Science Research Methodology for Information Systems Research.md",
+    "raw/papers/design-science-research/design-science-research-método-de-pesquisa-para-a-engenharia-de-produção_26112013_Lacerda-Dresch-Proença-Antunes-Júnior.pdf",
+    "raw/papers/design-science-research/a-design-science-research-methodology-for-information-systems-research_01122007_Peffers-Tuunanen-Rothenberger-Chatterjee.pdf",
+    "raw/ideas/2026-05-11-llm-wiki-pattern.md",
     "AGENTS.md",
-    "wiki/meta",
-    "wiki/workflows",
-    "wiki/questions",
-    "wiki/syntheses",
-    "wiki/entities",
-    "wiki/concepts",
-    "wiki/sources",
-    "raw/assets",
-    "raw/ideas",
-    "wiki",
-    "README.md"
+    "wiki/syntheses/Mestrado Research Map.md",
+    "wiki/sources/Singh 2024 - Modern Application Development Methodologies.md",
+    "wiki/sources/Zimmermann et al 2012 - Architectural Knowledge Management in IT Services.md",
+    "wiki/sources/Sandkuhl 2017 - Enterprise Modeling.md",
+    "wiki/sources/Putrama and Martinek 2024 - Heterogeneous Data Integration.md",
+    "wiki/sources/Shen et al 2010 - Systems Integration and Collaboration in AEC FM.md",
+    "wiki/sources/Panetto et al 2016 - Future Interoperable Enterprise Systems.md",
+    "wiki/sources/Schuh et al 2020 - Socio Technical Requirements for PPC Systems.md",
+    "wiki/sources/Simioni 2024 - SAP Absenteeism and Turnover Post Go Live.md",
+    "wiki/sources/Antoniadis et al 2015 - ERP and BI Usage by SMEs.md",
+    "wiki/sources/Carvalho and Guerrini 2017 - Reference Model Duplicate Raw.md",
+    "wiki/sources/Carvalho and Guerrini 2017 - Reference Model for Implementing ERP Systems.md",
+    "wiki/sources/Hung et al 2012 - Relationship Bonding for ERP Knowledge Transfer.md",
+    "wiki/sources/Ram et al 2013 - ERP CSFs and Performance.md",
+    "wiki/sources/Al-Amin et al 2023 - ERP in Industry 4.0.md",
+    "wiki/sources/Bahssas et al 2015 - ERP Systems Design Trends and Deployment.md",
+    "wiki/sources/Klaus et al 2000 - What is ERP.md",
+    "wiki/concepts/Socio Technical ERP Adoption.md",
+    "wiki/concepts/Enterprise Modeling for ERP Implementation.md",
+    "wiki/concepts/Enterprise Integration and Interoperability.md",
+    "wiki/concepts/ERP Implementation Success Factors.md",
+    "wiki/concepts/Enterprise Resource Planning.md",
+    "raw/papers/systems-engineering/Graessler and Grewe - 2026 - Measuring Systems Engineering Transformation A systematic literature review.pdf",
+    "raw/papers/systems-engineering/Nielsen et al. - 2015 - Systems of Systems Engineering Basic Concepts, Model-Based Techniques, and Research Directions.pdf",
+    "raw/papers/systems-engineering/Torkjazi and Raz - 2024 - A Review on Integrating Autonomy Into System of Systems Challenges and Research Directions.pdf",
+    "raw/papers/enterprise-integration-erp/ssrn_id4376127_code5028483.pdf",
+    "raw/papers/enterprise-integration-erp/Singh - 2024 - Navigating the Landscape An In-Depth Exploration of Modern Application Development Methodologies an.pdf",
+    "raw/papers/enterprise-integration-erp/Sandkuhl-3-EM.pdf",
+    "raw/papers/enterprise-integration-erp/Putrama and Martinek - 2024 - Heterogeneous data integration Challenges and opportunities.pdf",
+    "raw/papers/enterprise-integration-erp/Shen et al. - 2010 - Systems integration and collaboration in architecture, engineering, construction, and facilities man.pdf"
   ]
 }
