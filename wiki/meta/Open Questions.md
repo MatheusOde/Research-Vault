@@ -28,8 +28,8 @@ tags:
 
 ## Research Program
 
-- What is the central master's research question?
-- Should the main method be DSR, SLR, case study, or a combined design-science plus systematic-review design?
-- Which ERP/interoperability problem is most important: implementation success, knowledge transfer, data integration, socio-technical adoption, or post-go-live performance?
+- What bounded ERP proof-of-concept scenario best demonstrates sociotechnical alignment problems?
+- Which minimum prototype features are necessary to evaluate the 4EM-based method?
+- Which literature gaps remain around 4EM applied specifically to systems integration?
 - Which evaluation setting is available for a DSR artifact?
 - Which source gaps remain for cloud/SaaS ERP, semantic interoperability, and ERP ecosystems as systems of systems?

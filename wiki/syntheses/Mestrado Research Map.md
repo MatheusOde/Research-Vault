@@ -19,6 +19,7 @@ tags:
 ## Summary
 
 - Current vault centers on research methodology, ERP/enterprise integration, and systems engineering.
+- Current research draft narrows this map into a 4EM-based DSR method for sociotechnical alignment in systems integration.
 - [[wiki/concepts/Design Science Research|Design Science Research]] gives artifact-building logic for applied research.
 - [[wiki/concepts/Systematic Literature Review Protocol|Systematic Literature Review Protocol]] and [[wiki/concepts/PRISMA Reporting|PRISMA Reporting]] give evidence-review discipline.
 - [[wiki/concepts/Enterprise Resource Planning|Enterprise Resource Planning]] and [[wiki/concepts/Enterprise Integration and Interoperability|Enterprise Integration and Interoperability]] define likely application domain.
@@ -26,9 +27,9 @@ tags:
 
 ## Working Thesis
 
-This source set can support a master's research program where DSR is the methodological frame, systematic review is the evidence-building method, and ERP/enterprise integration is the application domain. Systems engineering and systems-of-systems literature broaden the framing when ERP integration is treated as a distributed socio-technical system rather than a bounded software deployment.
+This source set now supports a master's research program where DSR is the methodological frame, systematic review is the evidence-building method, and ERP-related systems integration is the empirical reference context. The current draft specifies the artifact as a prescriptive 4EM-based method for sociotechnical alignment.
 
-Confidence: medium. The exact research question still needs formulation.
+Confidence: medium-high. The exact proof-of-concept scenario and evaluation panel still need definition.
 
 ## Strong Connections
 
@@ -52,9 +53,10 @@ Confidence: medium. The exact research question still needs formulation.
 - [[wiki/concepts/Enterprise Integration and Interoperability]]
 - [[wiki/concepts/System of Systems Engineering]]
 - [[wiki/concepts/Socio Technical ERP Adoption]]
+- [[wiki/syntheses/Research Draft]]
 
 ## Open Questions
 
-- What is the central phenomenon: ERP implementation, enterprise integration, interoperability, or systems engineering transformation?
-- Should the main research artifact be a reference model, method, evaluation framework, or software instantiation?
+- What bounded ERP scenario will demonstrate the method clearly?
+- Which method features must exist before the web prototype is worth evaluating?
 - Which organization/context will provide empirical evaluation evidence?

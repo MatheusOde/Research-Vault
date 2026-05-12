@@ -5,8 +5,14 @@ This is content map for LLM-maintained wiki. Agent reads this first before answe
 ## Core
 
 - [[AGENTS|Agent Schema]] - Rules, workflows, and folder conventions for this vault.
+- [[_hot|Hot Context]] - Short latest-session summary for compact/resume context.
 - [[log|Log]] - Chronological record of ingests, queries, lint passes, and maintenance.
 - [[README|README]] - Human-facing vault entry point.
+
+## Research Draft
+
+- [[wiki/syntheses/Research Draft|Research Draft]] - Current proposal spine: 4EM-based DSR method for sociotechnical alignment in systems integration, using ERP as reference context.
+- [[wiki/sources/Projeto de Pesquisa Modelo FAPESP|Projeto de Pesquisa Modelo FAPESP]] - Source summary of the current research draft PDF.
 
 ## Source Summaries
 
@@ -82,6 +88,7 @@ This is content map for LLM-maintained wiki. Agent reads this first before answe
 
 - [[wiki/syntheses/Second Brain Architecture|Second Brain Architecture]] - Initial architecture for this vault: raw sources, generated wiki, and schema.
 - [[wiki/syntheses/Mestrado Research Map|Mestrado Research Map]] - Cross-topic map connecting DSR, SLR, ERP integration, and systems engineering.
+- [[wiki/syntheses/Research Draft|Research Draft]] - Dedicated synthesis of the current research proposal and its next work items.
 
 ## Entities
 
