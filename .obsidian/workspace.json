@@ -11,10 +11,14 @@
             "id": "519cfe90846e57d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/meta/Open Questions.md",
+                "file": "AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Open Questions"
+              "title": "Backlinks for AGENTS"
             }
           },
           {
@@ -191,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0f7bf205588c32b",
+  "active": "519cfe90846e57d5",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "_hot.md",
     "wiki/meta/Open Questions.md",
     "Untitled.canvas",
-    "_hot.md",
     "index.md",
     "log.md",
     "raw/drafts/Projeto_de_Pesquisa_Modelo_FAPESP.pdf",
@@ -207,7 +212,6 @@
     "raw/papers/design-science-research/design-science-research-método-de-pesquisa-para-a-engenharia-de-produção_26112013_Lacerda-Dresch-Proença-Antunes-Júnior.pdf",
     "raw/papers/design-science-research/a-design-science-research-methodology-for-information-systems-research_01122007_Peffers-Tuunanen-Rothenberger-Chatterjee.pdf",
     "raw/ideas/2026-05-11-llm-wiki-pattern.md",
-    "AGENTS.md",
     "wiki/syntheses/Mestrado Research Map.md",
     "wiki/sources/Singh 2024 - Modern Application Development Methodologies.md",
     "wiki/sources/Zimmermann et al 2012 - Architectural Knowledge Management in IT Services.md",
